@@ -1,0 +1,19 @@
+# YouTube URLs Template - Text Format
+# ===================================
+# 
+# Instructions:
+# 1. Add your YouTube URLs below (one per line)
+# 2. Lines starting with # are comments and will be ignored
+# 3. Empty lines will be ignored
+# 4. Supported URL formats:
+#    - https://www.youtube.com/watch?v=VIDEO_ID
+#    - https://youtu.be/VIDEO_ID
+#    - Just the VIDEO_ID (11 characters)
+#
+# Sample URLs (replace with your own):
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/9bZkp7q19f0
+https://www.youtube.com/watch?v=kJQP7kiw5Fk
+
+# Add your URLs below this line:

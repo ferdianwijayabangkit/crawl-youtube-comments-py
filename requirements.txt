@@ -1,0 +1,16 @@
+# YouTube Comments Crawler - Requirements
+# =====================================
+
+# Core dependencies
+google-api-python-client>=2.0.0    # YouTube Data API v3
+pandas>=1.5.0                       # Data manipulation and analysis
+openpyxl>=3.0.0                     # Excel file support
+
+# Optional dependencies for enhanced features
+textblob>=0.17.0                    # Sentiment analysis (optional)
+requests>=2.25.0                    # HTTP requests for IP detection (optional)
+
+# Development dependencies (optional)
+pytest>=6.0.0                       # Testing framework
+black>=22.0.0                       # Code formatter
+flake8>=4.0.0                       # Code linting
