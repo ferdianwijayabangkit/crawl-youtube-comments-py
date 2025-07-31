@@ -37,8 +37,13 @@ Sistem crawling komentar YouTube yang dapat dijalankan di terminal CMD secara in
 ### 1. Clone atau Download Repository
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/ferdianwijayabangkit/youtube-comments-crawler-cmd.git
 cd youtube-comments-crawler-cmd
+=======
+git clone https://github.com/ferdianwijayabangkit/crawl-youtube-comments-py.git
+cd crawl-youtube-comments-py
+>>>>>>> 0ce75c9a20dcab616f32390814c5b9b6e11c23cd
 ```
 
 Atau download ZIP dan extract ke folder pilihan Anda.
