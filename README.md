@@ -1,6 +1,6 @@
 # 🎬 YouTube Comments Crawler
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Terminal%2FCMD-lightgrey)
