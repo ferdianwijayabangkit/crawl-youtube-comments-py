@@ -37,7 +37,7 @@ Sistem crawling komentar YouTube interaktif berbasis terminal (CMD/Shell) yang d
 1.  **Clone Repositori**
     Gunakan `git` untuk mengunduh proyek ke komputer lokal Anda.
     ```bash
-    git clone [https://github.com/ferdianwijayabangkit/crawl-youtube-comments-py.git](https://github.com/ferdianwijayabangkit/crawl-youtube-comments-py.git)
+    git clone https://github.com/ferdianwijayabangkit/crawl-youtube-comments-py.git
     cd crawl-youtube-comments-py
     ```
 
